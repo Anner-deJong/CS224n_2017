@@ -1,6 +1,6 @@
 # CS224n 2017
 
-ASSINGMENT 4 NOT FINISHED YET
+ASSIGNMENT 4 NOT FINISHED YET
 
 All homework assignments for the early 2017 Stanford **_CS224n: Natural Language Processing with Deep Learning_** class. <br />
 **NB** Not including any data files

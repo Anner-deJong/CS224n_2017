@@ -2,8 +2,8 @@
 
 ASSINGMENT 4 NOT FINISHED YET
 
-All homework assignments for the early 2017 Stanford **_CS224n: Natural Language Processing with Deep Learning_** class.
-NB. Not including any data files
+All homework assignments for the early 2017 Stanford **_CS224n: Natural Language Processing with Deep Learning_** class. <br />
+**NB** Not including any data files
 
 Great thanks to Chris Manning & Richard Socher (and the rest of the Stanford team) for publicly sharing the lectures, sheets and assignments for this class
 ([course website](http://web.stanford.edu/class/cs224n/index.html) & [lecture videos](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja)). <br />

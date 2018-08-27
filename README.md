@@ -9,7 +9,7 @@ Great thanks to Chris Manning & Richard Socher (and the rest of the Stanford tea
 ([course website](http://web.stanford.edu/class/cs224n/index.html) & [lecture videos](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja)). <br />
 I can highly recommend it for anybody aiming to learn more about this field.
 
-This content is meant as references for your answers, as a means to debug, and sometimes for when it is unclear which code is right or wrong. There are a few more great answer decks out there, yet these are not consistent (nor is this one accordingly). I did however my best in cross checking my code and believe it is of decent standart.
+This content is meant as references for your answers, as a means to debug, and sometimes for when it is unclear which code is right or wrong. There are a few more great answer decks out there, yet these are not consistent (nor is this one accordingly). I did however my best in cross checking my code and believe it is of decent standard.
 I therefore hope anybody who is looking for references for their code will find this repository useful.
 
 ### Good luck and have fun!

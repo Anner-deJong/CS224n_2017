@@ -30,7 +30,7 @@ Here are my personal answers, and I furthermore agree with the example given for
 0 < U_h <br />
 
 p.p.s. I added a file q4_lstm_cell.py, which is not part of the homework. <br />
-This code seems not compatible with with q3 (a) untill (e), the latchin and toggling behaviour of cells.
+This code seems not compatible with with q3 (a) untill (e), the latching and toggling behaviour of cells.
 
 I think maybe somewhere down the code when passing tf.nn.dynamic_rnn the lstm cell, the state and output (the c and h) don't get passed properly. Hence I think the lstm png files are incorrect.
 
